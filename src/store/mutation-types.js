@@ -1,0 +1,5 @@
+export const SET_SHOWDRAWER = 'SET_SHOWDRAWER'
+export const SET_USER = 'SET_USER'
+export const SET_SALER = 'SET_SALER'
+export const SET_MANAGER = 'SET_MANAGER'
+export const SET_UPDATEFLAG = 'SET_UPDATEFLAG'
