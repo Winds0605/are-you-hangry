@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # project
 
 > A Vue.js project
@@ -19,3 +20,6 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# are-you-hangry
+>>>>>>> 812524ea4a0329c7306b8fd306bf8a518f56b295
